@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/izi-safety-timeline/static/css/main.e6c13ad2.css",
+    "main.js": "/izi-safety-timeline/static/js/main.6481774e.js",
+    "static/js/453.b579d146.chunk.js": "/izi-safety-timeline/static/js/453.b579d146.chunk.js",
+    "index.html": "/izi-safety-timeline/index.html",
+    "main.e6c13ad2.css.map": "/izi-safety-timeline/static/css/main.e6c13ad2.css.map",
+    "main.6481774e.js.map": "/izi-safety-timeline/static/js/main.6481774e.js.map",
+    "453.b579d146.chunk.js.map": "/izi-safety-timeline/static/js/453.b579d146.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6481774e.js"
+  ]
+}
